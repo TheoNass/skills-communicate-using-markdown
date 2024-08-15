@@ -2,3 +2,5 @@
 ### HEADER 3
 ###### Header 6
 Here's my commit message: I made meaningful modifications to the document
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
